@@ -10,7 +10,7 @@ namespace M17C_10x01
     {
         static void Main(string[] args) {               
             Console.WriteLine("Eu sou o Nikolay... o poderosão cá do sitio");
-            Console.WriteLine("Magalhães sabe usar o git");
+            Console.WriteLine("Magalhães sabe usar o git, às vezes...");
         }
     }
 }
